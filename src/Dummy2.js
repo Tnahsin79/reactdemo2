@@ -2,7 +2,7 @@ import React from 'react';
 function Dummy2(props) {
     return (
         <div>
-            <h1 class="display-3">CLICK COUNTER 3</h1>
+            <h1 class="display-3">CLICK COUNTER 2</h1>
             <button class="btn btn-outline-primary" onClick={props.plusHandler}>+</button>
             <h3 class="display-4">{props.clickCount}</h3>
             <button class="btn btn-outline-primary" onClick={props.minusHandler}>-</button>
