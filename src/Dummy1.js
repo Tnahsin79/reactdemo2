@@ -17,3 +17,4 @@ class Dummy1 extends Component {
 }
 //export default Dummy1
 export default Dummy1
+//export default React.memo(Dummy1)
